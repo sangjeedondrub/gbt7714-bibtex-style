@@ -41,7 +41,7 @@ FUNCTION {load.config}
   #0 'link.title :=
   #1 'show.mark :=
   #0 'italic.jounal :=
-  #1 'show.missing.address.publisher :=
+  #0 'show.missing.address.publisher :=
   #1 'show.url :=
   #0 'show.doi :=
   #0 'show.note :=
