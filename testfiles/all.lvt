@@ -1,0 +1,9 @@
+\input{regression-test.tex}
+% \documentclass[UTF8,fontset=fandol]{ctexart}
+\documentclass{article}
+\usepackage[super]{gbt7714}
+\begin{document}
+\nocite{*}
+\bibliography{test}
+\SHOWFILE{\jobname.bbl}
+\end{document}
